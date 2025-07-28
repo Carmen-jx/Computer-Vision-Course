@@ -1,15 +1,10 @@
-# .gitignore for Python projects
-
-# Ignore virtual environments
 venv/
 venv_1/
 __pycache__/
 *.pyc
 
-# Ignore system files
 .DS_Store
 
-# Ignore other folders as needed
 /.bin
 /lib
 /path
