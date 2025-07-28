@@ -189,7 +189,6 @@ def add_padding(img):
         #calculate ratio
         ratio = float(num[0]/ num[1])
 
-
     while True:
         try:
             #prompt user to enter padding
